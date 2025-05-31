@@ -26,8 +26,9 @@ I love building tools, teaching devs, and simplifying complex tech for everyone.
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com?user=sabeelkhan99&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabeelkhan99&layout=compact&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com?user=sabeelkhan99&theme=radical&hide_border=false)<br/>
+
 
 ---
 
