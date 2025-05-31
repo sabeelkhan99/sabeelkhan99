@@ -34,4 +34,3 @@ I love building tools, teaching devs, and simplifying complex tech for everyone.
 
 [![](https://visitcount.itsvg.in/api?id=sabeelkhan99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Cleaned up and simplified by ChatGPT with ❤️ -->
