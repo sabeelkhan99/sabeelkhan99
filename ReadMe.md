@@ -1,6 +1,6 @@
 # Hi there, I'm Sabeel 👋
 
-I'm a Full-Stack Developer, Mentor, and Founder of [CodeFast](https://codefast.dev) — a platform that helps developers ship fast and earn faster 🚀
+I'm a Full-Stack Developer, Mentor, and Co-Founder of [CodeFast](https://codefast.dev) — a platform that helps developers ship fast and earn faster 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabeelhps) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SabeelCodeLab) 
