@@ -1,6 +1,6 @@
-# 💫 About Me:
-- 🔧 Build full-stack web apps using **MERN stack**<br>- 🧑‍🏫 Teach web development and help devs level up<br>- 🎥 Create content on [YouTube](https://youtube.com/@SabeelCodeLab) – tutorials, devlogs & more
+# Hi there, I'm Sabeel 👋
 
+I'm a Full-Stack Developer, Mentor, and Founder of [CodeFast](https://github.com/your-org/codefast) — a platform that helps developers ship fast and earn faster 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabeelhps) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SabeelCodeLab) 
